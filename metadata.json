@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Mind Reader: Number Guessing Game",
+  "description": "A sleek, AI-powered number guessing game where Gemini provides witty commentary and hints while you try to find the hidden number between 1 and 100.",
+  "requestFramePermissions": []
+}
